@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Sep 04 18:49:37 IDT 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=/home/smip/morphAnalyzer.jar
+manifest.mergeall=true
+manifest.mainclass=mila.mw.MWXMLMorphAnalyzer
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|jax-qname.jar>;<jar|jaxb-api.jar>;<jar|jaxb-xjc.jar>;<jar|namespace.jar>;<jar|javaee-api-6.0.jar>;<jar|xercesImpl.jar>
+includes=

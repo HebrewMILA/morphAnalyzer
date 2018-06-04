@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="mila-generated-jaxb.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-cli-1.2/commons-cli-1.2-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-cli-1.2/commons-cli-1.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-cli-1.2/commons-cli-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-io-2.4-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-io-2.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-lang3-3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="dbpool-6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="javaee-api-6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="javaee-api-7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jax-qname.jar"/>
+	<classpathentry exported="true" kind="lib" path="jaxb-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="jaxb-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="jaxb-libs.jar"/>
+	<classpathentry exported="true" kind="lib" path="jaxb-xjc.jar"/>
+	<classpathentry exported="true" kind="lib" path="jsf-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="jsf-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="JspQueries.jar"/>
+	<classpathentry exported="true" kind="lib" path="jstl-api-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jstl-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="mariadb-java-client-1.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="namespace.jar"/>
+	<classpathentry exported="true" kind="lib" path="or124.jar"/>
+	<classpathentry exported="true" kind="lib" path="relaxngDatatype.jar"/>
+	<classpathentry exported="true" kind="lib" path="serializer.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-api-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-simple-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="standard.jar"/>
+	<classpathentry exported="true" kind="lib" path="xalan.jar"/>
+	<classpathentry exported="true" kind="lib" path="xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="xml-apis.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsdlib-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsdlib-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsdlib.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsltc.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
