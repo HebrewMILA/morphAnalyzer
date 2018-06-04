@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-cli-1.2/commons-cli-1.2-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-cli-1.2/commons-cli-1.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-cli-1.2/commons-cli-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-io-2.4-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-io-2.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/jarsRepo/commons-lang3-3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/dbpool-6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/javaee-api-7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/JspQueries.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/mariadb-java-client-1.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/mila-generated-jaxb.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/jaxb-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/jaxb-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/jaxb-libs.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/jaxb-xjc.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/jaxb-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/slf4j-api-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/slf4j-simple-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/jarsRepo/javaee-api-6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
